@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 
+My name is Kashish, and I'm an LPU trained computer engineer interested in all things Web & App Development!
+- 🔭 I’m currently doing an internship for [CodTech IT Solutions](https://codtechitsolutions.com/) in Android development.
+- 🌱 I recently built an app to track the expenses, check it out [here](https://github.com/Kashish-HUB/Expense_Tracker_App).
+- 👯 I’m looking to work on Android Development and Web Development.
   
 <!--
 **Kashish-HUB/Kashish-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
