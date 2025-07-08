@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Kashish, and I'm an LPU trained computer engineer interested in all things Web & App Development!
-- 🔭 I’m currently doing an internship for [CodTech IT Solutions](https://codtechitsolutions.com/) in Android development.
+- 🔭 I have done an internship for [CodTech IT Solutions](https://codtechitsolutions.com/) in Android development.
 - 🌱 I recently built an app to track the expenses, check it out [here](https://github.com/Kashish-HUB/Expense_Tracker_App).
 - 👯 I’m looking to work on Android Development and Web Development.
   
